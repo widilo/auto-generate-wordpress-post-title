@@ -85,9 +85,7 @@ This is the second line of the content.
 
 ------
 
-### Example Code:
-
-Here’s the full function code:
+### Here’s the full function code:
 
 ```php
 function auto_generate_title_from_first_line($post_id) {
